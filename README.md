@@ -1,4 +1,4 @@
-This is my first personal project. While developing this, I enhanced my HTML and CSS Skills while also learning a bit of JavaScript.
+This is my first personal project, apart from schoolwork. While developing this, I enhanced my HTML and CSS Skills while also learning a bit of JavaScript.
 
 I will continue to make changes to it as a lot of things do not work as intended however I am sure I will reach the result I want.
 
