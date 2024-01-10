@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    color: #333; /* Dark Gray Text */
+    font-family: 'Arial', sans-serif;
+    font-size: 4vw;
+    font-weight: normal; /* Regular font weight */
+    text-align: left; /* Left-aligned text */
+  }
+  
+  html {
+    background: linear-gradient(to bottom, #f5deb3 0%, #8b4513 100%); /* Wheat to SaddleBrown */
+    height: 100vh;
+    padding: 40px 20px; /* Adjusted padding */
+    display: flex;
+    align-items: flex-start; /* Align to the top */
+    justify-content: flex-start; /* Align to the left */
+  }
+  
+  html::before {
+    content: 'Welcome'; /* Changed text */
+    color: #8b4513; /* SaddleBrown text */
+  }
+  
+  body {
+    display: block !important; /* Show the body */
+  }
+  
